@@ -4,10 +4,13 @@
 
 :root {
   --color-cream: #f5ede0;
-  --color-sage: #8a9a7b;
-  --color-terracotta: #c2563a;
+  --color-sky: #c8dfed;
+  --color-sage: #9bb084;
+  --color-terracotta: #d96847;
   --color-forest: #2d3a2e;
-  --color-butter: #f0d97f;
+  --color-butter: #f5d77c;
+  --color-peach: #f4a896;
+  --color-mint: #b8d8c8;
   --color-charcoal: #1a1a1a;
   --color-offwhite: #faf6ef;
 }

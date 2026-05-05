@@ -10,10 +10,13 @@ const config: Config = {
     extend: {
       colors: {
         cream: "#f5ede0",
-        sage: "#8a9a7b",
-        terracotta: "#c2563a",
+        sky: "#c8dfed",
+        sage: "#9bb084",
+        terracotta: "#d96847",
         forest: "#2d3a2e",
-        butter: "#f0d97f",
+        butter: "#f5d77c",
+        peach: "#f4a896",
+        mint: "#b8d8c8",
         charcoal: "#1a1a1a",
         offwhite: "#faf6ef",
       },
